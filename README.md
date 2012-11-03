@@ -1,5 +1,7 @@
                                                     README
 
+If you can not download our software,you can use the github command:git fetch [remote-name] 
+
 Contant us:
 
            You can speak Chinese if you can...
